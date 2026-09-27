@@ -1,0 +1,6 @@
+interface:
+  display_name: "rcskillmaster"
+  short_description: "Escolhe a skill certa pelo guia .ai/SKILLS.md do projeto"
+  default_prompt: "$rcskillmaster <descreva o pedido>"
+policy:
+  allow_implicit_invocation: false
